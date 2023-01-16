@@ -7,7 +7,7 @@
             <p data-aos="fade-right"data-aos-duration="2000">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ratione dolor ducimus similique! Tenetur eveniet distinctio maiores nam quibusdam voluptas ipsam harum, possimus minima molestiae architecto sequi reiciendis. Tenetur, fugiat dolore?.</p>
             <a href="#about" class="btn btn-outline-warning rounded-pill" data-aos="fade-right" data-aos-duration="2000">Read More</a>
           </div>
-          <div class="col-lg-5 order-5  mt-5">
+          <div class="col-lg-5 order-5  mt-1">
             <img src="https://i.ibb.co/hB1r7Yh/logo.jpg" class="img-fluid mt-5 " alt=""  data-aos="fade-down"
             data-aos-duration="2000">
           

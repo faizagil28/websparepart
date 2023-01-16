@@ -15,7 +15,7 @@
   </head>
   <body>
     <!--Agrey horizontal navbar that becomes vertical on small screens -->
-    <div class="navbar navbar-expand-lg navbar-dark fixed-top" style="background: rgba(42, 44, 57, 0.9)">
+    <div class="navbar navbar-expand-lg navbar-dark bg-secondary" style="background: rgba(42, 44, 57, 0.9)">
       <!-- Links -->
       <div class="container">
         <a class="navbar-brand"  href="<?= base_url();?>"><i>SPARE <span style="color: #ffc107;">PART</span></a></i>
